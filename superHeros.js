@@ -25,3 +25,8 @@ for(let a = 0; a < booksOnMyShelf.length; a++) {
     console.log(booksOnMyShelf[a]);
 }
 console.log("----------------------------------------");
+
+for(let b = 0; b < thingsInFrontOfMe.length; b++) {
+    console.log(thingsInFrontOfMe[b]);
+}
+console.log("----------------------------------------");
