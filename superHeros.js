@@ -30,3 +30,7 @@ for(let b = 0; b < thingsInFrontOfMe.length; b++) {
     console.log(thingsInFrontOfMe[b]);
 }
 console.log("----------------------------------------");
+
+for(let c = 0; c < howIFeel.length; c++) {
+    console.log(howIFeel[c]);
+}
